@@ -2,15 +2,52 @@ colorlog==4.1.0
 elasticsearch==6.3.1
 elasticsearch-dsl==6.3.1
 file-read-backwards==2.0.0
--e git+https://github.com/chaoss/grimoirelab-toolkit/#egg=grimoirelab-toolkit
--e git+https://github.com/chaoss/grimoirelab-sortinghat/#egg=grimoirelab-sortinghat
--e git+https://github.com/chaoss/grimoirelab-kidash/#egg=grimoirelab-kidash
--e git+https://github.com/chaoss/grimoirelab-elk/#egg=grimoirelab-elk
--e git+https://github.com/chaoss/grimoirelab-graal/#egg=grimoirelab-graal
--e git+https://github.com/chaoss/grimoirelab-perceval/#egg=grimoirelab-perceval
--e git+https://github.com/chaoss/grimoirelab-perceval-puppet/#egg=grimoirelab-perceval-puppet
--e git+https://github.com/chaoss/grimoirelab-perceval-opnfv/#egg=grimoirelab-perceval-opnfv
--e git+https://github.com/chaoss/grimoirelab-perceval-mozilla/#egg=grimoirelab-perceval-mozilla
--e git+https://github.com/Bitergia/grimoirelab-perceval-finos/#egg=grimoirelab-perceval-finos
--e git+https://github.com/chaoss/grimoirelab-perceval-weblate/#egg=grimoirelab-perceval-weblate
--e git+https://github.com/chaoss/grimoirelab-sigils/#egg=grimoirelab-sigils
+python-dateutil>=2.8.0
+redis==3.0.0
+rq==1.0.0
+cheroot>=8.2.1
+cherrypy>=17.4.2
+requests>=2.7.0
+numpy<=1.18.3
+scipy
+six
+PyMySQL>=0.7.0
+sqlalchemy>=1.2,<1.4
+jinja2==2.11.3
+python-dateutil>=2.6.0
+pandas>=0.22.0,<=0.25.3
+numpy<=1.18.3
+pyyaml>=3.12
+requests>=2.9
+urllib3>=1.22
+lizard==1.16.6
+pylint>=1.8.4
+flake8>=3.7.7
+networkx>=2.1
+pydot>=1.2.4
+bandit>=1.4.0
+requests>=2.7.0
+requests>=2.7.0
+elasticsearch==6.3.1
+elasticsearch-dsl==6.3.1
+requests==2.26.0
+urllib3==1.26.5
+PyMySQL==0.9.3
+geopy>=2.0.0
+pandas>=0.22.0,<=0.25.3
+numpy<=1.18.3
+statsmodels >= 0.9.0
+altair==2.1.0
+cufflinks==0.12.1
+requests>=2.7.0
+python-dateutil>=2.8.0
+poetry==1.1.7
+python-dateutil>=2.6.0
+requests>=2.7.0
+beautifulsoup4>=4.3.2
+feedparser>=6.0.8
+dulwich>=0.20.0
+urllib3>=1.22
+PyJWT>=1.7.1
+cryptography>=3.3.1
+requests>=2.7.0
