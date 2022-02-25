@@ -4,6 +4,10 @@
             "https://github.com/chaoss/grimoirelab-perceval",
             "https://github.com/intlify/vue-i18n-next"
         ],
+        "git:diff_log": [
+            "https://github.com/chaoss/grimoirelab-perceval",
+            "https://github.com/intlify/vue-i18n-next"
+        ],
         "cocom": [
             "https://github.com/chaoss/grimoirelab-toolkit"
         ],
